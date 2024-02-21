@@ -1,4 +1,4 @@
 # Here are all home and projects related to Windows System Administrator.
 <div align = "center">
-<img src="https://icons8.com/icon/108792/windows-10">
+<img width="144" height="144" src="https://img.icons8.com/color/144/windows-10.png" alt="windows-10"/>
 </div>
